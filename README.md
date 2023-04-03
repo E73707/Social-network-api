@@ -2,7 +2,7 @@
 
 ## description
 
-This is a social network API that allows users to create accounts, add friends, post thoughts, and react to thoughts.
+This is a social network API built using mongoDB that allows users to create accounts, add friends, post thoughts, and react to thoughts.
 
 ## Table of contents
 
@@ -16,10 +16,15 @@ This is a social network API that allows users to create accounts, add friends, 
 
 ## Installation
 
+To install this application, follow these steps:
 
+1. Clone the repository to your local machine
+2. Install dependencies using the npm install command
+3. Start the server using the npm start command
 
 ## usage
 
+Once the server is running, the API can be accessed using tools like Insomnia or Postman to send HTTP requests to the appropriate endpoints.
 
 ## license
 
