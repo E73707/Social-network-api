@@ -4,6 +4,12 @@
 
 This is a social network API built using mongoDB that allows users to create accounts, add friends, post thoughts, and react to thoughts.
 
+Technologies Used
+1. Node.js
+2. Express.js
+3. MongoDB
+4. Mongoose
+
 ## Table of contents
 
 - [description](#description)
