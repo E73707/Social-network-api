@@ -26,6 +26,9 @@ To install this application, follow these steps:
 
 Once the server is running, the API can be accessed using tools like Insomnia or Postman to send HTTP requests to the appropriate endpoints.
 
+below is a link to a walkthrough video explaining theh application 
+https://watch.screencastify.com/v/FMbGlvGHUXnItGl0N919
+
 ## license
 
 MIT
