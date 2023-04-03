@@ -2,7 +2,7 @@
 
 ## description
 
-
+This is a social network API that allows users to create accounts, add friends, post thoughts, and react to thoughts.
 
 ## Table of contents
 
